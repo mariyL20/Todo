@@ -57,3 +57,5 @@ todo.show()
 
 todo.count_no_complete = 5
 print(todo.count_no_complete)
+
+# написать функцию подсчета выполненных и перенесенных дел
