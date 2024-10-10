@@ -2,6 +2,7 @@ class Todо:
     # Конструктор класса Todo, добавляет словарь дел и счетчики.
     def __init__(self):
         self.issue = {} # Словарь дел
+        self.transfer_issue = {} # Словарь перенесенных дел.
         self.count = 0
         self.__count_no_complete = 0
         self.__count_transfer = 0
