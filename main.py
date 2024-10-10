@@ -95,4 +95,4 @@ todo.change_transfer('Уборка')
 todo.change_issue('Кормление кота')
 todo.show()
 
-
+#ghffj
